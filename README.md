@@ -8,9 +8,16 @@ This is an example of git comparison with the README.md file.
 
 ## Purpose
 
-## Deployment
+Comp test.
 
-Sample website with plenty of files for demos
+## Different Deployment
+
+Some text
 
 ## How To Contribute
 
+Add some stuff
+
+## Last entry
+
+Nada folks.
